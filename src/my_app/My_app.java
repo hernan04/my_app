@@ -1,10 +1,5 @@
 package my_app;
 
-
-
-guyikfyui
-
-
 import java.io.*;
 import java.net.*;
 
